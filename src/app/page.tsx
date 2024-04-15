@@ -17,7 +17,6 @@ export default async function HomePage() {
           </div>
         ))}
       </div>
-      Hello World
     </main>
   );
 }
